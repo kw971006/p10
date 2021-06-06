@@ -1,0 +1,46 @@
+{
+  "childabuse": [
+    {
+      "place": "seoul",
+      "count": [
+        2178
+      ]
+    },
+    {
+      "place": "busan",
+      "count": [
+        1752
+      ]
+    },
+    {
+      "place": "incheon",
+      "count": [
+        2282
+      ]
+    },
+    {
+      "place": "daegu",
+      "count": [
+        1479
+      ]
+    },
+    {
+      "place": "gwangju",
+      "count": [
+        876
+      ]
+    },
+    {
+      "place": "daejeon",
+      "count": [
+        800
+      ]
+    },
+    {
+      "place": "wulsan",
+      "count": [
+        895
+      ]
+    }
+  ]
+}
